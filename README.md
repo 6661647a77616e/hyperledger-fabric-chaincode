@@ -47,3 +47,8 @@ curl -sSLO https://raw.githubusercontent.com/hyperledger/fabric/main/scripts/ins
 
 ---
 
+## reset  
+```
+rm -rf ~/go
+sudo rm -rf /usr/local/go
+```
