@@ -1,4 +1,4 @@
-package parcel_tracking_chaincode
+package main
 
 import (
 	"encoding/json"
